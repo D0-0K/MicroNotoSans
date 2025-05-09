@@ -10,10 +10,20 @@ This repository contains both ttf files as well as textfiles containing the glyp
 
 ## Breakdown
 
-A variety of different target formats were used for this subset. 
 
-|                    |                    |                    |
+|Language|Format|Characters|Source|
+|---------------|---------------|---------------|---------------|
+|Simplified Chinese & Kanji|[IICore 2.2](https://en.wikipedia.org/wiki/International_Ideographs_Core)|10,566|[IICoreRSIndex.pdf](https://www.unicode.org/versions/IICoreRSIndex.pdf)|
+|Korean|[KSx1001](https://en.wikipedia.org/wiki/KS_X_1001)|2,349|[hangul-generation.html](https://www.unifoundry.com/hangul/hangul-generation.html)|
+
+|Language|Unicode Block|Characters|
 |--------------------|--------------------|--------------------|
-|                    |                    |                    |
-|                    |                    |                    |
-|                    |                    |                    |
+|Arabic|                    |305|
+|Cyrillic|                    |310|
+|Georgian|                    |82|
+|Greek|                    |214|
+|Hebrew||173|
+|Thai||83|
+|Symbols||WIP|
+
+
