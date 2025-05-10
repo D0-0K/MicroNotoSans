@@ -16,14 +16,15 @@ This repository contains both ttf files as well as textfiles containing the glyp
 |Simplified Chinese & Kanji|[IICore 2.2](https://en.wikipedia.org/wiki/International_Ideographs_Core)|10,566|[IICoreRSIndex.pdf](https://www.unicode.org/versions/IICoreRSIndex.pdf)|
 |Korean|[KSx1001](https://en.wikipedia.org/wiki/KS_X_1001)|2,349|[hangul-generation.html](https://www.unifoundry.com/hangul/hangul-generation.html)|
 
-|Language|Unicode Block|Characters|
+|Language|Unicode Blocks|Characters|
 |--------------------|--------------------|--------------------|
-|Arabic|                    |305|
-|Cyrillic|                    |310|
-|Georgian|                    |82|
-|Greek|                    |214|
-|Hebrew||173|
-|Thai||83|
-|Symbols||WIP|
+|Arabic|[Arabic](https://en.wikipedia.org/wiki/Arabic_(Unicode_block)), [Arabic Supplement](https://en.wikipedia.org/wiki/Arabic_Supplement)|305|
+|Cyrillic|[Cyrillic](https://en.wikipedia.org/wiki/Cyrillic_(Unicode_block)), [Cyrillic Supplement](https://en.wikipedia.org/wiki/Cyrillic_Supplement)|310|
+|Georgian|[Georgian](https://en.wikipedia.org/wiki/Georgian_(Unicode_block))|82|
+|Greek|[Greek and Coptic](https://en.wikipedia.org/wiki/Greek_and_Coptic), [Letterlike Symbols](https://en.wikipedia.org/wiki/Letterlike_Symbols)|214|
+|Hebrew|[Hebrew](https://en.wikipedia.org/wiki/Hebrew_(Unicode_block))|173|
+|Thai|[Thai](https://en.wikipedia.org/wiki/Thai_(Unicode_block))|83|
+
+**Note on Symbols:** The "symbols" subset includes a variety of symbols and characters that did not fit into the subset categories above. Included in this section are Katakana, Hirgana, Bopomofo, Hangul Jamo and various dingbats and symbols that might be of use.
 
 
