@@ -13,8 +13,9 @@ This repository contains both ttf files as well as textfiles containing the glyp
 
 |Language|Format|Characters|Source|
 |---------------|---------------|---------------|---------------|
-|Simplified Chinese & Kanji|[IICore 2.2](https://en.wikipedia.org/wiki/International_Ideographs_Core)|10,566|[IICoreRSIndex.pdf](https://www.unicode.org/versions/IICoreRSIndex.pdf)|
+|Simplified Chinese|[IICore 2.2](https://en.wikipedia.org/wiki/International_Ideographs_Core)|10,566|[IICoreRSIndex.pdf](https://www.unicode.org/versions/IICoreRSIndex.pdf)|
 |Korean|[KSx1001](https://en.wikipedia.org/wiki/KS_X_1001)|2,349|[hangul-generation.html](https://www.unifoundry.com/hangul/hangul-generation.html)|
+|Japanese|[JIS X 0208](https://en.wikipedia.org/wiki/JIS_X_0208)|6756|[Subset compiled by Shingo Tajima](https://qiita.com/gonshi_com/items/b54736d2e0e0f4586f6e)|
 
 |Language|Unicode Blocks|Characters|
 |--------------------|--------------------|--------------------|
