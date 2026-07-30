@@ -25,6 +25,8 @@ This repository contains both ttf files as well as textfiles containing the glyp
 |Greek|[Greek and Coptic](https://en.wikipedia.org/wiki/Greek_and_Coptic), [Letterlike Symbols](https://en.wikipedia.org/wiki/Letterlike_Symbols)|214|
 |Hebrew|[Hebrew](https://en.wikipedia.org/wiki/Hebrew_(Unicode_block))|173|
 |Thai|[Thai](https://en.wikipedia.org/wiki/Thai_(Unicode_block))|83|
+|Devanagari|[Devanagari](https://en.wikipedia.org/wiki/Devanagari_(Unicode_block))|128|
+|Khmer|[Khmer Symbols](https://en.wikipedia.org/wiki/Khmer_Symbols)|154|
 
 **Note on Symbols:** The "symbols" subset includes a variety of symbols and characters that did not fit into the subset categories above. Included in this section are Katakana, Hirgana, Bopomofo, Hangul Jamo and various dingbats and symbols that might be of use.
 
